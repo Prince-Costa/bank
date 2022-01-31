@@ -1,0 +1,19 @@
+#loginPart, #depositPart{
+    margin: auto;
+    margin: 10%;
+    margin-top: 50px;
+}
+#loginPart h1{
+    text-align: center;
+    color:rgb(0, 195, 255);
+}
+#dataEntryPart, .amountSection{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 50px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#depositPart{
+    display: none;
+}
